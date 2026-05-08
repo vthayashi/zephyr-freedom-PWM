@@ -96,3 +96,7 @@ O foco é validar se o sinal PWM está saindo corretamente do microcontrolador a
 | 4.2 | Teste Bi-Motor | Ambos os motores operando em sincronia para movimento em linha reta. |
 
 ---
+LED Laranja Piscante:
+
+https://github.com/user-attachments/assets/618b55a7-b15e-4770-8a4c-a47147acbccd
+
