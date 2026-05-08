@@ -96,3 +96,6 @@ O foco é validar se o sinal PWM está saindo corretamente do microcontrolador a
 | 4.2 | Teste Bi-Motor | Ambos os motores operando em sincronia para movimento em linha reta. |
 
 ---
+Pisca LED: 
+https://github.com/user-attachments/assets/ad340d3f-49fa-45cb-bfe8-38a6369c1434
+
